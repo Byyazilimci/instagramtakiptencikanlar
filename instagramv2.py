@@ -83,7 +83,7 @@ def get_following(session, user_id, csrf_token, max_count=50):
 
 def print_social_media_icons():
     print('''\n\033[1;34m  Beni Sosyal Medyada Takip Edin:\033[0m
-\033[1;32m  [📸] Instagram: \033[0mGokhan_yakut_04
+\033[1;32m  [📸] Instagram: \033[0mXpert.hack
 \033[1;33m  [💬] WhatsApp: \033[0m+44 7833 319922
 \033[1;35m  [🔗] GitHub: \033[0mhttps://github.com/Byyazilimci
 \033[1;36m  [🐦] Twitter: \033[0m@bygokhanYakut
